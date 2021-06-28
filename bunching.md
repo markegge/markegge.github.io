@@ -16,7 +16,7 @@ Having previously established that Pittsburgh's buses do bunch and a technical p
 
 Vehicle locations for all buses servicing routes 61, 71, P1, and G2 were recorded once every sixty seconds throughout the month of March, 2016, resulting in a dataset of some 1.5m records of timestamped bus locations. Each location data point is processed to measure the minimum distance to the next closest bus operating at the same moment on the same route in the same direction. If less than 250 meters away from the next bus servicing the same route, the point is classified as "bunched."
 
-<img src="images/bunchingsuds-marey-chart.png?raw=true"/>
+<img src="images/bunching/suds-marey-chart.png?raw=true"/>
 
 Across all routes, approximately 18% of all data points were "bunched." With only 5% of observations bunched, Route G2 is the best performer among our selected routes. Route 71A measured worst, with over 26% of all observations bunched (most bunched P1 observations are attributable to observations near the terminals on either end of its run).
 
