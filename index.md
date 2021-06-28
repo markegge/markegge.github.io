@@ -2,32 +2,27 @@
 
 ---
 
-### Category Name 1 
+### Visualization
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pittsburgh Bus Bunching](/bunching)
+<img src="images/bunching/bunching_thumbnail.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MAG Animated Regional Travel Map](https://storymaps.arcgis.com/stories/1121f240a00d45a3bd9d2a0e13549c8a)
+See the animated map showing regional trips at the bottom of the storymap.
+<img src="images/mag_animation_thumbnail.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Oil and Gas Development](https://markegge.github.io/wells/wells-multi.html)
+While working at CMU's CREATE Lab I developed a nationwide database of oil and gas wells and an animated map to tell the story of oil and gas drilling over time.
+<img src="images/wells_thumbnail.jpg?raw=true"/>
 
 ---
 
+### Web Development
 
+- [Nebraska Electric Vehicle Revenue Impacts](https://highstreet.shinyapps.io/ndot-ev-revenue/) (Password: tesla)
+- [AASHTO TPM Benchmarking Platform](https://benchmarking.tpm-portal.com/)
 
 
 ---
