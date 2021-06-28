@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## THE WHEN AND WHERE OF PITTSBURGH’S BUNCHED BUSES
 
 <img src="images/bunching/Bus-Cluster.jpg?raw=true"/>
@@ -45,3 +49,6 @@ I’ve also had occasion to speak with several news organizations, and to presen
 * [2016/11/02] [How can Port Authority tackle a common public-transit problem?](https://www.pghcitypaper.com/pittsburgh/how-can-port-authority-tackle-a-common-public-transit-problem/Content?oid=1962809) – Pittsburgh City Paper – Stephen Caruso
 * [2016/09/21] Bus Bunching (Presentation). CMU Transportation Club
 * [2016/09/08] Data Projects With SUDS (Presentation). Students for Urban Data Systems
+
+
+[back](./)
