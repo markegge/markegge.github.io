@@ -4,7 +4,7 @@
 
 ### Visualization
 
-[Pittsburgh Bus Bunching](/bus_bunching/)
+[Pittsburgh Bus Bunching](/bunching_page/)
 <img src="images/bunching/bunching_thumbnail.png?raw=true"/>
 
 ---
