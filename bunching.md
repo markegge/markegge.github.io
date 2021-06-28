@@ -1,9 +1,3 @@
----
-layout: default
-title: "THE WHEN AND WHERE OF PITTSBURGH'S BUNCHED BUSES"
-permalink: /bunching/
----
-
 ## THE WHEN AND WHERE OF PITTSBURGH'S BUNCHED BUSES
 
 <img src="images/bunching/Bus-Cluster.jpg?raw=true"/>
