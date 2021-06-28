@@ -15,7 +15,7 @@ See the animated map showing regional trips at the bottom of the storymap.
 ---
 [Oil and Gas Development](https://markegge.github.io/wells/wells-multi.html)
 While working at CMU's CREATE Lab I developed a nationwide database of oil and gas wells and an animated map to tell the story of oil and gas drilling over time.
-<img src="images/wells_thumbnail.jpg?raw=true"/>
+<img src="images/wells_thumbnail.png?raw=true"/>
 
 ---
 
@@ -23,6 +23,10 @@ While working at CMU's CREATE Lab I developed a nationwide database of oil and g
 
 - [Nebraska Electric Vehicle Revenue Impacts](https://highstreet.shinyapps.io/ndot-ev-revenue/) (Password: tesla)
 - [AASHTO TPM Benchmarking Platform](https://benchmarking.tpm-portal.com/)
+
+### Data Science
+
+- [Travel Time Forecasting](/pdf/travel_time_forecasting_whitepaper.pdf)
 
 
 ---
