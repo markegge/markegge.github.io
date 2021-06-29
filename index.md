@@ -1,5 +1,7 @@
 ## Portfolio
 
+As a consultant, much of my work cannot be shared publicly. Below is a light selection of work I'm proud of and able to share.
+
 ---
 
 ### Visualization
@@ -13,8 +15,8 @@ See the animated map showing regional trips at the bottom of the storymap.
 <img src="images/mag_animation_thumbnail.png?raw=true"/>
 
 ---
-[Oil and Gas Development](https://markegge.github.io/wells/wells-multi.html)
-While working at CMU's CREATE Lab I developed a nationwide database of oil and gas wells and an animated map to tell the story of oil and gas drilling over time.
+[Oil and Gas Drilling Database and Map](https://cmu-create-lab.github.io/drilling-data-tools/wells.html)
+While working at CMU's CREATE Lab I developed a nationwide database of oil and gas wells and an animated map to tell the story of oil and gas drilling over time. View the [code used to scrape drilling data from 25+ state sources](https://github.com/CMU-CREATE-Lab/drilling-data-tools)
 <img src="images/wells_thumbnail.png?raw=true"/>
 
 ---
