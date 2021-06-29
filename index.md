@@ -1,6 +1,6 @@
 ## Portfolio
 
-As a consultant, much of my work cannot be shared publicly. Below is a light selection of work I'm proud of and able to share.
+Although much of my professional work cannot be shared publicly, I'm pleased to share here a small sample of representative projects I'm proud of.
 
 ---
 
@@ -15,7 +15,7 @@ See the animated map showing regional trips at the bottom of the storymap.
 <img src="images/mag_animation_thumbnail.png?raw=true"/>
 
 ---
-[Oil and Gas Drilling Database and Map](https://cmu-create-lab.github.io/drilling-data-tools/wells.html)
+[Oil and Gas Drilling Database and Map](https://cmu-create-lab.github.io/drilling-data-tools/wells-decay.html)
 While working at CMU's CREATE Lab I developed a nationwide database of oil and gas wells and an animated map to tell the story of oil and gas drilling over time. View the [code used to scrape drilling data from 25+ state sources](https://github.com/CMU-CREATE-Lab/drilling-data-tools)
 <img src="images/wells_thumbnail.png?raw=true"/>
 
@@ -28,7 +28,7 @@ While working at CMU's CREATE Lab I developed a nationwide database of oil and g
 
 ### Data Science
 
-- [Travel Time Forecasting](/pdf/travel_time_forecasting_whitepaper.pdf)
+- [Travel Time Forecasting Whitepaper](/pdf/travel_time_forecasting_whitepaper.pdf)
 
 
 ---
