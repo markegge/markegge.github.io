@@ -1,6 +1,6 @@
 ## Portfolio
 
-Although much of my professional work cannot be shared publicly, I'm pleased to share here a small sample of representative projects I'm proud of.
+I'm pleased to share here a sample of projects I'm proud of.
 
 ---
 
@@ -9,11 +9,6 @@ Although much of my professional work cannot be shared publicly, I'm pleased to 
 [The Bozeman Brief](https://civiccast.ai)
 An automated pipeline that transforms recorded city government meetings into AI-generated podcast episodes, delivered to subscribers on Spotify and Apple Podcasts within 24 hours of each meeting. Meeting audio is downloaded from Granicus, transcribed and speaker-diarized by AssemblyAI, then fed to Claude to produce a two-host conversational recap of agenda items, key decisions, votes, and public comments. The flagship product, The Bozeman Brief, covers 14 Bozeman city boards. Now offered as a commercial SaaS product — CivicCast AI — available to municipalities nationwide.
 <img src="images/bozeman_brief_promo.png?raw=true"/>
-
----
-
-[STC AI Research](https://www.stc.org)
-Research for the Society for Technical Communication exploring practical applications of large language models in transportation planning and technical documentation workflows.
 
 ---
 
@@ -57,7 +52,7 @@ While working at CMU's CREATE Lab I developed a nationwide database of oil and g
 ---
 
 ### Research & Writing
-
+- [Artificial Intelligence and Its Role and Use Within State DOTs] (https://www.linkedin.com/feed/update/urn:li:activity:7424868764036268032/)
 - [Accessibility Impacts of Transportation Investments](https://github.com/WFRCAnalytics/ATO-Impact-Tool)
 - [Travel Time Forecasting Whitepaper](/pdf/travel_time_forecasting_whitepaper.pdf)
 - [Understanding Transit Systems Using AVL-APC Data](https://digitalcommons.usf.edu/jpt/vol21/iss2/2/) — Journal of Public Transportation
