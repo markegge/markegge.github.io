@@ -12,6 +12,11 @@ An automated pipeline that transforms recorded city government meetings into AI-
 
 ---
 
+[AI in State DOTs: 60+ Real-World Use Cases and Policy Analysis](https://www.ltrc.lsu.edu/pdf/2026/FR_722.pdf)
+A 100-page research report published through the Louisiana Transportation Research Center cataloging 60+ practical AI implementations in production at state DOTs — real deployments, not pilots or hype. Covers asset management, traffic operations, and more, with a state-by-state policy analysis and implementation guidance. Key findings: Missouri's pre-incident detection system achieved benefit-cost ratios above 6.0; Hawaii identifies maintenance issues in real time via crowdsourced dashcams; successful AI augments staff rather than replacing them. Co-authored with Syndney Tate, Donner Kahl, and Isaac Gonzalez at High Street. [[LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7424868764036268032/)]
+
+---
+
 ### Web Development & Tools
 
 [GTFS Builder](https://www.transitfeeds.net)
@@ -52,7 +57,7 @@ While working at CMU's CREATE Lab I developed a nationwide database of oil and g
 ---
 
 ### Research & Writing
-- [Artificial Intelligence and Its Role and Use Within State DOTs] (https://www.linkedin.com/feed/update/urn:li:activity:7424868764036268032/)
+- [Artificial Intelligence and Its Role and Use Within State DOTs](https://www.ltrc.lsu.edu/pdf/2026/FR_722.pdf) — LTRC Final Report
 - [Accessibility Impacts of Transportation Investments](https://github.com/WFRCAnalytics/ATO-Impact-Tool)
 - [Travel Time Forecasting Whitepaper](/pdf/travel_time_forecasting_whitepaper.pdf)
 - [Understanding Transit Systems Using AVL-APC Data](https://digitalcommons.usf.edu/jpt/vol21/iss2/2/) — Journal of Public Transportation
