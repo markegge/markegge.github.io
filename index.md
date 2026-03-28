@@ -45,6 +45,7 @@ A GIS-based spatial analysis identifying and prioritizing gaps in Bozeman's acti
 ---
 
 [Pittsburgh Bus Bunching](/bunching_page)
+A data analysis and visualization project quantifying the frequency, timing, and location of bus bunching on Pittsburgh's busiest transit routes. Vehicle locations were recorded every 60 seconds throughout March 2016, classifying approximately 18% of all observations as "bunched." The resulting visualizations — including route-level heatmaps and an animated citywide timelapse — were shared by Pittsburgh Mayor Bill Peduto and incorporated into the Port Authority's BRT outreach materials.
 <img src="images/bunching/bunching_thumbnail.png?raw=true"/>
 
 ---
@@ -59,6 +60,8 @@ While working at CMU's CREATE Lab I developed a nationwide database of oil and g
 
 - [Accessibility Impacts of Transportation Investments](https://github.com/WFRCAnalytics/ATO-Impact-Tool)
 - [Travel Time Forecasting Whitepaper](/pdf/travel_time_forecasting_whitepaper.pdf)
+- [Understanding Transit Systems Using AVL-APC Data](https://digitalcommons.usf.edu/jpt/vol21/iss2/2/) — Journal of Public Transportation
+- [Five Essential Skills for Transportation Data Science](https://towardsdatascience.com/five-essential-skills-for-transportation-data-science-8c4bed72c03e) — Towards Data Science
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
