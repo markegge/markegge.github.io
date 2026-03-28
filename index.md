@@ -6,29 +6,28 @@ Although much of my professional work cannot be shared publicly, I'm pleased to 
 
 ### AI & Automation
 
-[The Bozeman Brief](https://bozemanbrief.civiccast.ai)
-An automated pipeline that transforms recorded city government meetings into AI-generated podcast episodes. Meeting audio is transcribed, diarized, and fed to Claude to produce a two-host conversational recap of agenda items, key decisions, votes, and public comments. Built on AssemblyAI, Claude, OpenAI TTS, and Cloudflare R2.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Bozeman Brief](https://civiccast.ai)
+An automated pipeline that transforms recorded city government meetings into AI-generated podcast episodes, delivered to subscribers on Spotify and Apple Podcasts within 24 hours of each meeting. Meeting audio is downloaded from Granicus, transcribed and speaker-diarized by AssemblyAI, then fed to Claude to produce a two-host conversational recap of agenda items, key decisions, votes, and public comments. The flagship product, The Bozeman Brief, covers 14 Bozeman city boards. Now offered as a commercial SaaS product — CivicCast AI — available to municipalities nationwide.
+<img src="images/bozeman_brief_promo.png?raw=true"/>
 
 ---
 
 [STC AI Research](https://www.stc.org)
 Research for the Society for Technical Communication exploring practical applications of large language models in transportation planning and technical documentation workflows.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Web Development & Tools
 
 [GTFS Builder](https://www.transitfeeds.net)
-A browser-based editor for creating, editing, and exporting GTFS (General Transit Feed Specification) transit data. Draw routes on a map with snap-to-road, place stops, build timetables, and export a validated GTFS ZIP — no GIS software required. Includes demographic coverage analysis and operating cost estimation tools.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A browser-based tool for creating, editing, and exporting standards-compliant GTFS (General Transit Feed Specification) transit data. Define agency information, fares, service calendars, routes, stops, and timetables — including GTFS-Flex for demand-responsive services — through an interactive map interface. Export a validated GTFS zip file with no GIS software or programming required. Supports importing existing feeds for editing.
+<img src="images/transitfeeds_screenshot.png?raw=true"/>
 
 ---
 
 [TransitPeers](https://www.transitpeers.net)
-A peer benchmarking platform for transit agencies, enabling apples-to-apples comparison of performance metrics across peer systems using NTD data.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A free peer benchmarking platform for US public transit agencies. Using data from the National Transit Database (NTD), agencies can search and filter more than 2,300 agencies to identify peers by size, cost structure, ridership, or service characteristics, then compare performance metrics — ridership, operating expenses, farebox recovery, cost per trip, and more — via interactive time-series and bar charts with CSV export. Covers 2019–2024 data across all modes.
+<img src="images/transitpeers_screenshot.png?raw=true"/>
 
 ---
 
@@ -39,9 +38,9 @@ A peer benchmarking platform for transit agencies, enabling apples-to-apples com
 
 ### Data Analysis & Visualization
 
-[Bozeman Bicycle & Pedestrian Network Gap Analysis](https://www.bozeman.net)
-A spatial analysis identifying gaps in Bozeman's active transportation network, prioritizing connections between residential areas, schools, and key destinations to guide capital investment decisions.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bozeman Bicycle & Pedestrian Network Gap Analysis](https://storymaps.arcgis.com/stories/4463fbedf30d4609a5b4aaff1a8b8f81)
+A GIS-based spatial analysis identifying and prioritizing gaps in Bozeman's active transportation network, conducted for the City of Bozeman Transportation & Engineering Department. Using a weighted scoring methodology — incorporating safety, equity, connections to activity centers, and public input — the analysis classifies spot, linear, area, and experiential gaps to guide capital investment decisions. Published as an interactive [ArcGIS StoryMap](https://storymaps.arcgis.com/stories/4463fbedf30d4609a5b4aaff1a8b8f81) and [interactive map experience](https://experience.arcgis.com/experience/263b43d819dc492c8796da16207c2a83/).
+<img src="images/bozeman_bikepd_screenshot.png?raw=true"/>
 
 ---
 
